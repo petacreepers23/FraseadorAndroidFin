@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fraseador</string>
+    <string name="buenos_dias">Buenos Dias</string>
+    <string name="buenas_tardes">Buenas Tardes</string>
+    <string name="buenas_noches">Buenas Noches</string>
+    <string name="la_frase">La Frase</string>
+
+</resources>
